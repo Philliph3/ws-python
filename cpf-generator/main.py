@@ -21,7 +21,6 @@
 # Wireshark 101: Essential Skills for Network Analysis - Second Edition: Wireshark Solutions Series
 # Lean Wireshark: Confidently navigate the Wireshark interface and solve real-world networking problems
 #
-#
 #        ____     ____    ____      ____                                          __                   
 #       /\  _`\  /\  _`\,/\  _`\   /\  _`\                                       /\ \__                
 #       \ \ \/\_\\ \ \L\ \ \ \L\_  \ \ \L\_\     __    ___      __   _ __    __  \ \ ,_\   ___   _ __  
