@@ -15,11 +15,23 @@
 #    Código 8:  São Paulo
 #    Código 9: Paraná – Santa Catarina
 #            
+# TCP/IP Ilustreated, Volume 1: The Protocols (2nd edition) (addison-wesley professionel computing series)
+# 
+# Practical Packet Analysis, 3rd Edition: Using Wireshark to solve Real-World Network Problems
+# Wireshark 101: Essential Skills for Network Analysis - Second Edition: Wireshark Solutions Series
+# Lean Wireshark: Confidently navigate the Wireshark interface and solve real-world networking problems
 #
 #
 #
 #
 #
+# ____     ____    ____      ____                                          __                   
+#/\  _`\  /\  _`\,/\  _`\   /\  _`\                                       /\ \__                
+#\ \ \/\_\\ \ \L\ \ \ \L\_  \ \ \L\_\     __    ___      __   _ __    __  \ \ ,_\   ___   _ __  
+# \ \ \/_/_\ \ ,__/\ \  _\/  \ \ \L_L   /'__`\/' _ `\  /'__`\/\`'__\/'__`\ \ \ \/  / __`\/\`'__\
+#  \ \ \L\ \\ \ \/  \ \ \/    \ \ \/, \/\  __//\ \/\ \/\  __/\ \ \//\ \L\.\_\ \ \_/\ \L\ \ \ \/ 
+#   \ \____/ \ \_\   \ \_\     \ \____/\ \____\ \_\ \_\ \____\\ \_\\ \__/.\_\\ \__\ \____/\ \_\ 
+#    \/___/   \/_/    \/_/      \/___/  \/____/\/_/\/_/\/____/ \/_/ \/__/\/_/ \/__/\/___/  \/_/ 
 #
 #
 #
