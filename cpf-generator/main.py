@@ -1,0 +1,31 @@
+### Copiar projeto em C
+### Criar condicional para verificar qual estado o CPF gerado pertence
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
