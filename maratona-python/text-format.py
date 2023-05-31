@@ -8,7 +8,7 @@ ValorFatura=150.80
 ###### Uma delas é o método ".format" de strings:
 print("Olá {nome},\n A sua fatura com vencimento em {vencimento} de {mesvencimento} no valor de R${valor:0.02f} está fechada.".format(nome=nome, vencimento=DiaVencimento,  mesvencimento=MesVencimento, valor=float(ValorFatura)))
 
-print("\n")
+print()
 # E na versão 3.6 em diante você pode até usar strings com o prefixo f" " que permitem a formatação direta a partir das variáveis, sem precisar chamar o método format.
 
 ###### Ou seja, fica só assim:
