@@ -17,9 +17,6 @@
 #            
 # TCP/IP Ilustreated, Volume 1: The Protocols (2nd edition) (addison-wesley professionel computing series)
 # 
-# Practical Packet Analysis, 3rd Edition: Using Wireshark to solve Real-World Network Problems
-# Wireshark 101: Essential Skills for Network Analysis - Second Edition: Wireshark Solutions Series
-# Lean Wireshark: Confidently navigate the Wireshark interface and solve real-world networking problems
 #
 #        ____     ____    ____      ____                                          __                   
 #       /\  _`\  /\  _`\,/\  _`\   /\  _`\                                       /\ \__                
