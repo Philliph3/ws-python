@@ -92,7 +92,7 @@ alunos = [
 
 # Outros exemplos:
 
-#print(alunos[0]["nome"], alunos[1]["nome"], alunos[2]["nome"], alunos[3]["nome"], alunos[4]["nome"], alunos[5]["nome"])
+print(alunos[2]["notas"])
 # printando em linha
 
 # Listando as Idades dos Alunos
