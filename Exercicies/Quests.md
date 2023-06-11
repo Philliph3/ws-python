@@ -25,6 +25,7 @@ E retorne um dicionário com as palavras como chaves e as contagens como valores
 <br/>
 
 #### **Jogo da Forca:**
+> ##### _**Em Andamento**_
 > Implemente um jogo da forca em que o programa escolhe uma palavra aleatória de uma lista de palavras e o usuário deve adivinhar a palavra, fornecendo letras em cada tentativa.
 
 <br/>
