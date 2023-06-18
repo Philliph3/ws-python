@@ -1,6 +1,5 @@
-# _Jogo da Forca__________________________________________________________________
-#   |Implemente um jogo da forca em que o programa escolhe uma palavra aleatória
-#   | de uma lista de palavras e o usuário deve adivinhar a palavra, fornecendo letras em cada tentativa.
+#  Jogo da Forca
+# Implemente um jogo da forca em que o programa escolhe uma palavra aleatória de uma lista de palavras e o usuário deve adivinhar a palavra, fornecendo letras em cada tentativa.
 
 
 # 
@@ -8,7 +7,8 @@
 # x. Perguntar ao usuário qual a letra
 # x. Ler resposta do usuário
 # x. verificar letras na palavra 
-# x. Contador de tentativas(ver como é na forca)
+# x. Contador de erros
+# x. Contador de chances(7 chances: Cabeça; corpo; braço direito; braço esquerdo; perna direirta; perna esquerda; e o último é o enforcamento;)
 # x. Exibir letras erradas já informadas pelo usuário
 # x. Percorrer vetor e comparar letra informada com a letra/valor dentro de cada indice
 # x. 
@@ -58,6 +58,30 @@
 #        if letra == valor_usuario:
 #            print(f"A letra '{valor_usuario}' foi encontrada na palavra {palavra}.")
 ##
+
+
+#================= TESTE ======================
+
+cont=0
+acerto=0
+
+palavras = ["a","r"]
+
+valor_usuario = input("Digite um valor: ")
+
+for palavra in palavras:
+    for letra in palavra:
+        if letra == valor_usuario:
+            print(f"A letra '{valor_usuario}' foi encontrada na palavra {palavra}.")
+            acerto=acerto+1
+        else:
+            cont=cont+1
+
+print()
+print("Contador: ",cont)
+print("Acertos: ",acerto)
+            
+
 
 
 # print()
