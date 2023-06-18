@@ -58,3 +58,9 @@
 #        if letra == valor_usuario:
 #            print(f"A letra '{valor_usuario}' foi encontrada na palavra {palavra}.")
 ##
+
+
+# print()
+# teste=["a","r"]
+# way to show the complete word to player when match is over or player loses:
+# print(teste[0]+teste[1])
