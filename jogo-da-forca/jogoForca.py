@@ -65,7 +65,15 @@
 cont=0
 acerto=0
 
-palavras = ["a","r"]
+#palavras = ["a","r"]  <<-- Voltar para este exemplo, pois o jogo vai correr com apenas uma lista que virá aleatória do [.Random()]
+
+palavras = [
+    ["q","u","e","i","j","o"],
+    ["m","u","s","i","c","a"],
+    ["a","r","t","r","o","p","o","d","e"],
+    ["a","r"],
+    ["n","o","t","a","s"]
+]
 
 valor_usuario = input("Digite um valor: ")
 
@@ -75,6 +83,7 @@ for palavra in palavras:
             print(f"A letra '{valor_usuario}' foi encontrada na palavra {palavra}.")
             acerto=acerto+1
         else:
+            print("fail")
             cont=cont+1
 
 print()
