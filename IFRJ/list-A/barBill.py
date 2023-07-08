@@ -10,8 +10,3 @@ print(f"John: R${john}")
 print(f"Joan: R${joan}")
 print(f"Jean: R${jean}")
 print()
-
-
-
-
-
