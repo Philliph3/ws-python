@@ -90,7 +90,7 @@ print()
 print("Contador: ",cont)
 print("Acertos: ",acerto)
             
-
+print()
 
 
 # print()
